@@ -8,7 +8,8 @@ app.use("/", (req, res) => {
         Name: "Naitik Sharma",
         email: "snaitik0238@gmail.com",
         College: "Arya College of Engineering & IT",
-        Gender: "male"
+        Gender: "male",
+        Contact: 7003278402,
     
      })
 })
